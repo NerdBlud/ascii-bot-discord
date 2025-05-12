@@ -62,15 +62,17 @@ The bot will return a list of font styles like `bold`, `italic`, and `monospace`
 ## Setup 🔧
 
 1. Clone the repository:
-
+```git
 git clone https://github.com/NerdBlud/ascii-bot-discord.git
 cd ascii-bot-discord
+```
 
 
 2. Install dependencies:
-
+   
+```bash
 pip install -r requirements.txt
-
+```
 
 3. Update your bot's token:
 In the `main.py` file, replace `YOUR_BOT_TOKEN_HERE` with your bot's token.
