@@ -63,8 +63,8 @@ The bot will return a list of font styles like `bold`, `italic`, and `monospace`
 
 1. Clone the repository:
 
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/NerdBlud/ascii-bot-discord.git
+cd ascii-bot-discord
 
 
 2. Install dependencies:
